@@ -15,6 +15,7 @@ My space of work gravity around:
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" width="32"/>Firebase
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" width="32"/>Mongo
+  
 Aprendiendo :
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="32"/>Vue
