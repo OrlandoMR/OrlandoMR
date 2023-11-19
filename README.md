@@ -12,7 +12,7 @@ My space of work gravity around:
   
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" width="32"/>Docker
   
-- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" width="32"/>Firebase
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" width="32"/>Firebase
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" width="32"/>Mongo
   
